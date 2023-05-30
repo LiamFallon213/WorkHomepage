@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.button {
+  border: none;
+  color: black;
+  background-color: lightgrey;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.p {
+  border: none;
+  color: black;
+  background-color: green;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
