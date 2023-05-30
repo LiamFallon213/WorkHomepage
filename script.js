@@ -9,6 +9,10 @@ var passwordString = `Hello,
 
 Please use our password reset portal at [url=http://password.montana.edu/]http://password.montana.edu/[/url]. to reset your password, that should fix your issue.
 
+To reset your NetID password, you can do that by going to the Password Portal at [url=http://password.montana.edu/]http://password.montana.edu/[/url]
+
+If you do not know your NetID, you can reclaim it here: [url=https://www3.montana.edu/netidclaim/]https://www3.montana.edu/netidclaim/[/url]
+
 `+ signature;
 
 var VPN = `Hello,
