@@ -39,7 +39,7 @@ function copyChooser(source) {
   }else if(source == 4){
     navigator.clipboard.writeText(COPE);
   }else if(source == 5){
-    navigator.clipboard.writeText(█);
+    navigator.clipboard.writeText('█');
   }
   document.getElementById("done").removeAttribute("hidden");
   setTimeout(clearDone, 1000);
