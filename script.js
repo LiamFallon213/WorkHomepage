@@ -17,7 +17,7 @@ If you do not know your NetID, you can reclaim it here: [url=https://www3.montan
 
 var VPN = `Hello,
 
-Banner-VPN is no longer functioning. If that is the VPN you are attempting to connect to, please change the VPN you are connecting to MSU-Employee-VPN and try again. If this is not your issue, please reach out.
+Banner-VPN is no longer functioning. If that is the VPN you are attempting to connect to, please change the VPN you are connecting to MSU-Employee-VPN and try again. If that does not work, please try manually opening the DUO app when you try to logging to ensure you get the notification. 
 
 `+ signature;
 
