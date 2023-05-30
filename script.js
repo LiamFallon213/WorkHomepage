@@ -27,7 +27,6 @@ The new listing is
 [quote]
 
 [/quote]
-
 `+ signature;
 
 function copyChooser(source) {
