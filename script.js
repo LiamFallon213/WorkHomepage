@@ -7,7 +7,7 @@ helpdesk@montana.edu | <a href="tel:(406) 994-1777">(406) 994-1777</a>
 
 var passwordString = `Hello,
 
-Please use our password reset portal at [url=http://password.montana.edu/]http://password.montana.edu/[/url]. to reset your password, that should fix your issue.
+Please use our password reset portal at [url=http://password.montana.edu/]http://password.montana.edu/[/url] to reset your password, that should fix your issue.
 
 To reset your NetID password, you can do that by going to the Password Portal at [url=http://password.montana.edu/]http://password.montana.edu/[/url]
 
