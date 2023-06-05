@@ -29,6 +29,12 @@ The new listing is
 [/quote]
 `+ signature;
 
+var callVisit = `Hello,
+
+It looks like your issue is a complex one. Due to the limitations of Email I would suggest you call us at <a href="tel:(406) 994-1777">(406) 994-1777</a>, or visit us in 115G Renne Library. 
+
+`+ signature;
+
 function copyChooser(source) {
   if (source == 1) {
     navigator.clipboard.writeText(signature);
@@ -40,6 +46,8 @@ function copyChooser(source) {
     navigator.clipboard.writeText(COPE);
   }else if(source == 5){
     navigator.clipboard.writeText("█");
+  }else if(source == 6){
+    navigator.clipboard.writeText(callVisit);
   }
   document.getElementById("done").removeAttribute("hidden");
   setTimeout(clearDone, 1000);
