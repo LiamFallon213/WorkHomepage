@@ -35,6 +35,15 @@ It looks like your issue is a complex one. Due to the limitations of Email I wou
 
 `+ signature;
 
+var redacted = `[u]Hello [NAME]
+Please note[/u] that I removed the first 4 digits of your MSU ID number in your message above.  
+ 
+Email is not a secure form of communication, so it's always best to list [u]only[/u] the last 4 digits of your MSU ID number in any email message, to protect your confidential information.
+
+A tech will be reaching out shortly to help you with your problem.
+
+`+signature;
+
 function copyChooser(source) {
   if (source == 1) {
     navigator.clipboard.writeText(signature);
@@ -48,6 +57,8 @@ function copyChooser(source) {
     navigator.clipboard.writeText("█");
   }else if(source == 6){
     navigator.clipboard.writeText(callVisit);
+  }else if(source == 7){
+    navigator.clipboard.writeText(redacted);
   }
   document.getElementById("done").removeAttribute("hidden");
   setTimeout(clearDone, 1000);
