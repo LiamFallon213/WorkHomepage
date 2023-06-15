@@ -5,7 +5,7 @@ var signature = `[b][color=BlueViolet]Thank You, [/color]
 helpdesk@montana.edu | <a href="tel:(406) 994-1777">(406) 994-1777</a>
 [/b][/color]`
 
-var passwordString = `Hello,
+var passwordString = `Hello NAME,
 
 Please use our password reset portal at [url=http://password.montana.edu/]http://password.montana.edu/[/url] to reset your password, that should fix your issue.
 
@@ -15,7 +15,8 @@ If you do not know your NetID, you can reclaim it here: [url=https://www3.montan
 
 `+ signature;
 
-var VPN = `Hello,
+var VPN = `Hello NAME,
+
 If you have accessed the VPN previously, you will likely just need to download the Cisco AnyConnect software. Please visit the link at the bottom for instructions downloading Cisco AnyConnect and connecting to the VPN.
 
 If you have never connected to the MSU VPN - whether Student or Employee - you will need to call the UIT Service Desk, or submit a ticket, and have them add your user account to the VPN Security Group. Once that is done you will be able to follow the link below to download and install the VPN software.
@@ -39,7 +40,7 @@ If you have a DUO token, you will need to use [url=https://guide.duo.com/append-
 
 `+ signature;
 
-var COPE = `Hello,
+var COPE = `Hello NAME,
 
 The new listing is
 [quote]
@@ -47,7 +48,7 @@ The new listing is
 [/quote]
 `+ signature;
 
-var callVisit = `Hello,
+var callVisit = `Hello NAME,
 
 It looks like your issue is a complex one. Due to the limitations of Email I would suggest you call us at <a href="tel:(406) 994-1777">(406) 994-1777</a>, or visit us in 115G Renne Library. 
 
