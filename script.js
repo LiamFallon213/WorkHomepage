@@ -16,11 +16,20 @@ If you do not know your NetID, you can reclaim it here: [url=https://www3.montan
 `+ signature;
 
 var VPN = `Hello,
+If you have accessed the VPN previously, you will likely just need to download the Cisco AnyConnect software. Please visit the link at the bottom for instructions downloading Cisco AnyConnect and connecting to the VPN.
 
-If you have accessed the VPN previously, you will likely just need to download the Cisco AnyConnect software. Please visit the link at the bottom for instructions downloading Cisco AnyConnect and connecting to the VPN. If you have never connected to the MSU VPN - whether Student or Employee - you will need to call the UIT Service Desk, or submit a ticket, and have them add your user account to the VPN Security Group. Once that is done you will be able to follow the link below to download and install the VPN software. [url=http://www.montana.edu/uit/computing/desktop/vpn/index.html]VPN- Secure Remote Access[/url] If you are having issues connecting, please reference the troubleshooting steps below, or contact the UIT Service Desk at 994-1777 or visit us on the first floor of the Renne Library.
+If you have never connected to the MSU VPN - whether Student or Employee - you will need to call the UIT Service Desk, or submit a ticket, and have them add your user account to the VPN Security Group. Once that is done you will be able to follow the link below to download and install the VPN software.
 
-...
-If you have never connected to the MSU VPN - whether Student or Employee - you will need to call the UIT Service Desk or submit a ticket to have them add your user account to the VPN Security Group. Once that is done, you will be able to follow the link below to download and install the VPN software. If you have accessed the VPN previously and you just need to download the Cisco AnyConnect software, please visit this link to download it: https://www3.montana.edu/software/ for instructions downloading Cisco AnyConnect and connecting to the VPN: [url=http://www.montana.edu/uit/computing/desktop/vpn/index.html]VPN- Secure Remote Access[/url] If you are having issues connecting, please reference the troubleshooting steps below, or contact the UIT Service Desk at 994-1777 or visit us on the first floor of the Renne Library.[quote][u]Cisco AnyConnect VPN Troubleshooting: [/u] Here is the information regarding changing specific settings in the VPN configuration, to help you connect: Ensure you are following [url=http://www.montana.edu/itcenter/computing/desktop/vpn.html]these instructions[/url] for connecting to the MSU VPN.[/quote]
+[url=http://www.montana.edu/uit/computing/desktop/vpn/index.html]VPN- Secure Remote Access[/url]
+
+If you are having issues connecting, please reference the troubleshooting steps below, or contact the UIT Service Desk at 994-1777 or visit us on the first floor of the Renne Library.
+
+[quote]Cisco AnyConnect VPN Troubleshooting:
+
+Here is the information regarding changing specific settings in the VPN configuration, to help you connect:
+
+Ensure you are following [url=http://www.montana.edu/uit/computing/desktop/vpn/index.html]these instructions[/url] for connecting to the MSU VPN. [/quote]
+
 [b] Common Issues: [/b]
 
 Banner-VPN has recently been taken offline, and therefore cannot be used to connect. Instead use the VPN group that is assoiated with your position. E.g: An employee should use MSU-Employee-VPN, where as a student should use MSU-Student-VPN.
