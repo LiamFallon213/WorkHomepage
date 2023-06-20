@@ -17,7 +17,7 @@ If you do not know your NetID, you can reclaim it here: [url=https://www3.montan
 
 var VPN = `Hello NAME,
 
-If you have accessed the VPN previously, you will likely just need to download the Cisco AnyConnect software. Please visit the link at the bottom for instructions downloading Cisco AnyConnect and connecting to the VPN.
+If you have accessed the VPN previously, you will likely just need to download the Cisco AnyConnect software. Please visit the link below for instructions downloading Cisco AnyConnect and connecting to the VPN.
 
 If you have never connected to the MSU VPN - whether Student or Employee - you will need to call the UIT Service Desk, or submit a ticket, and have them add your user account to the VPN Security Group. Once that is done you will be able to follow the link below to download and install the VPN software.
 
@@ -36,6 +36,7 @@ Ensure you are following [url=http://www.montana.edu/uit/computing/desktop/vpn/i
 Banner-VPN has recently been taken offline, and therefore cannot be used to connect. Instead use the VPN group that is assoiated with your position. E.g: An employee should use MSU-Employee-VPN, where as a student should use MSU-Student-VPN.
 
 Recently the VPN has also been updated to require DUO authentication, if you are not getting notifications, first check that the DUO app is allowed to send you notifications. Then if it can send notifications, but is not; open the app and try to login. You should see the prompt come up, and after that it should send the notifications properly.
+
 If you have a DUO token, you will need to use [url=https://guide.duo.com/append-mode#how-to-use-append-mode]Append Mode[/url].  
 
 `+ signature;
