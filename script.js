@@ -5,7 +5,7 @@ var signature = `[b][color=BlueViolet]Thank You, [/color]
 helpdesk@montana.edu | <a href="tel:(406) 994-1777">(406) 994-1777</a>
 [/b][/color]`
 
-var passwordString = `Hello NAME,
+var passwordString = `Hello,
 
 Please use our password reset portal at [url=http://password.montana.edu/]http://password.montana.edu/[/url] to reset your password, that should fix your issue.
 
@@ -15,7 +15,7 @@ If you do not know your NetID, you can reclaim it here: [url=https://www3.montan
 
 `+ signature;
 
-var VPN = `Hello NAME,
+var VPN = `Hello,
 
 If you have accessed the VPN previously, you will likely just need to download the Cisco AnyConnect software. Please visit the link below for instructions downloading Cisco AnyConnect and connecting to the VPN.
 
@@ -41,7 +41,7 @@ If you have a DUO token, you will need to use [url=https://guide.duo.com/append-
 
 `+ signature;
 
-var COPE = `Hello NAME,
+var COPE = `Hello,
 
 The new listing is
 [quote]
@@ -49,13 +49,13 @@ The new listing is
 [/quote]
 `+ signature;
 
-var callVisit = `Hello NAME,
+var callVisit = `Hello,
 
 It looks like your issue is a complex one. Due to the limitations of Email I would suggest you call us at <a href="tel:(406) 994-1777">(406) 994-1777</a>, or visit us in 115G Renne Library. 
 
 `+ signature;
 
-var redacted = `[u]Hello [NAME]
+var redacted = `[u]Hello,
 Please note[/u] that I removed the first 4 digits of your MSU ID number in your message above.  
  
 Email is not a secure form of communication, so it's always best to list [u]only[/u] the last 4 digits of your MSU ID number in any email message, to protect your confidential information.
