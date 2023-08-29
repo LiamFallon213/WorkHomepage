@@ -33,7 +33,7 @@ Ensure you are following [url=http://www.montana.edu/uit/computing/desktop/vpn/i
 
 [b] Common Issues: [/b]
 
-Banner-VPN has recently been taken offline, and therefore cannot be used to connect. Instead use the VPN group that is associated with your position. E.g: An employee should use MSU-Employee-VPN, where as a student should use MSU-Student-VPN.
+Banner-VPN has recently been taken offline, and therefore cannot be used to connect. Instead use the VPN group that is associated with your position. E.g: An employee should use MSU-Employee-VPN, where as a student should use VPN_Student.
 
 Recently the VPN has also been updated to require DUO authentication, if you are not getting notifications, first check that the DUO app is allowed to send you notifications. Then if it can send notifications, but is not; open the app and try to login. You should see the prompt come up, and after that it should send the notifications properly.
 
